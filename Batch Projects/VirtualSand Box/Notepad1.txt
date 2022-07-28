@@ -1,0 +1,5 @@
+Welcome to notepad!
+press "1" to go back.
+Dont press a key then enter or the system will shutdown exccept the key 1.
+
+
