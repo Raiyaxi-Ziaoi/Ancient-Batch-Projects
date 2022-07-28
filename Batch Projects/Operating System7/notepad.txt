@@ -1,2 +1,0 @@
-Welcome to the built-in notepad!
-NOTE.Type "Back" to go to menu.
