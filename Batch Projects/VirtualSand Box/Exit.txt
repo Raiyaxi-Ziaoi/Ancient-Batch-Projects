@@ -1,3 +1,0 @@
-Are you sure you want to exit?
-
-YES:2     goto menu:3     NO:1
